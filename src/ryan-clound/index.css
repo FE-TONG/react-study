@@ -1,0 +1,9 @@
+div,ul,li,p,h3{
+    margin: 0;
+    padding: 0;
+}
+
+.app-title{
+    line-height: 50px;
+    text-align: center;
+}
